@@ -1,5 +1,4 @@
 import { Input } from "antd";
-import "highlight.js/styles/dracula.css";
 
 const { TextArea } = Input;
 
