@@ -1,6 +1,6 @@
 import { Button } from "antd";
 
-export default function Generate({ onClick }) {
+export default function DeleteButton({ onClick }) {
     return (
         <Button
             variant="solid"
